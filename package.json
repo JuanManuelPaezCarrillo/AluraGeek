@@ -1,0 +1,28 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Alura geek project for Oracle/Alura latam program",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ecommerce",
+    "CRUD",
+    "alura",
+    "latam"
+  ],
+  "author": "Juan Manuel Paez Carrillo",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://juanmanuelpaezcarrillo@github.io/portafolio/",
+  "dependencies": {
+    "bootstrap-icons": "^1.10.5"
+  }
+}
